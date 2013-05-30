@@ -1,0 +1,89 @@
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+    font-size: 17px;
+}
+
+#configurarPaginas{
+    float: left; 
+    margin-right: 0px; 
+    width: 40%;
+}
+
+#rpp, #pagina{
+    width: 50px; 
+    margin-left: 2px; 
+    margin-right: 12px;
+}
+
+.pagination{
+    margin-top: 0px;
+    width: 60%;
+    float: left;
+    text-align: right;
+}
+
+#pre-datos{
+    width: 100%;
+    text-align: right;
+}
+
+.modal-body input, .modal-body textarea{
+
+    width: 97%;
+}
+
+#titulo, #texto, #tags{
+    vertical-align: top;
+    height: 40px;
+}
+
+#texto{
+    height: 120px;
+}
+
+#tags{
+    height: 20px;
+}
+
+
+hr{
+    background-color: lightgray;
+    height: 1px;
+}
+
+#datos{
+    text-align: justify;
+}
+
+#datos2{
+    position: fixed;
+}
+
+#myModal2 .modal-body{
+    text-align: center;
+}
+
+.usuario{
+    color:white;
+}
+
+.modal-body {
+    max-height: 3000px;
+}
+.modal {
+position: absolute;
+min-width: 560px;
+width: auto;
+}
+
+#myModalTags .modal-body{
+    width:500px;
+}
+
+.justify{
+    text-align: justify;
+}
